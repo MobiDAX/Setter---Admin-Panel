@@ -1,2 +1,2 @@
-# Setter---Admin-Panel
+# Setter-Admin-Panel
 Setter
